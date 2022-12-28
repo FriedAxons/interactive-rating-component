@@ -5,16 +5,14 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Submitting your solution](#submitting-your-solution)
-  - [Sharing your solution](#sharing-your-solution)
-  - [Continued development](#continued-development)
-
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Submitting your solution](#submitting-your-solution)
+- [Sharing your solution](#sharing-your-solution)
+- [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
