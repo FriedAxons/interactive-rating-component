@@ -22,6 +22,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
+Use the design images as reference as well as the challenge instructions and the style-guide for help getting started. The goal is to look at the images and try to replicate the design as close to the original image as possible.
+
 ### The challenge
 
 Users should be able to:
