@@ -16,9 +16,9 @@ body {
   display: flex;
   flex-direction: column;
   background-color: hsl(216, 12%, 8%);
-  margin: 0px 85px;
-  padding: 35px 50px;
-  border-radius: 20px;
+  margin: 0px 110px;
+  padding: 45px 50px 30px 50px;
+  border-radius: 25px;
 }
 
 img {
@@ -32,6 +32,7 @@ img {
 
 h1 {
   color: hsl(0, 0%, 100%);
+  margin: 0;
 }
 
 p {
@@ -44,6 +45,7 @@ p {
 }
 
 .rating-btn {
+  font-family: inherit;
   padding: 15px 20px;
   border-radius: 50%;
   background-color: hsl(213, 19%, 18%);
@@ -56,8 +58,15 @@ p {
   background-color: hsl(25, 97%, 53%);
   border: none;
   width: 100%;
-  padding: 15px;
+  padding: 12px 10px;
   border-radius: 20px;
   color: hsl(0, 0%, 100%);
   margin-top: 30px;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.attribution {
+  color: white;
 }
