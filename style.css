@@ -7,14 +7,40 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background-color: hsl(216, 12%, 8%);
+  background-color: black;
   font-family: 'Lato', sans-serif;
   font-size: 15px;
 }
 
 .container {
-  background-color: hsl(213, 19%, 18%);
+  background-color: hsl(216, 12%, 8%);
   margin: 0px 85px;
-  padding: 80px 30px;
+  padding: 90px 30px;
   border-radius: 20px;
+}
+
+img {
+  background-color: hsl(213, 19%, 18%);
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: hsl(217, 12%, 63%);
+}
+
+.btn-rating-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rating-btn {
+  padding: 20px 25px;
+  border-radius: 50%;
+  background-color: hsl(213, 19%, 18%);
+  color: hsl(216, 12%, 54%);
+  border: none;
+  margin-top: 10px;
 }
