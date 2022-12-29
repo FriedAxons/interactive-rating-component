@@ -93,7 +93,6 @@ p {
   height: 120px;
   background-image: url(/images/illustration-thank-you.svg);
   background-size: cover;
-  object-fit: contain;
 }
 
 /** Instead I made a div that contained the image (above this line) and that made the issue of having the image fit the size much easier than what I was trying to do below this line.*/
