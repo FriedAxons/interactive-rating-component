@@ -39,6 +39,7 @@ h1 {
 
 p {
   color: hsl(217, 12%, 63%);
+  font-size: 16px;
 }
 
 .btn-rating-container {
@@ -53,7 +54,8 @@ p {
   background-color: hsl(213, 19%, 18%);
   color: hsl(216, 12%, 54%);
   border: none;
-  margin-top: 10px;
+  margin-top: 20px;
+  cursor: pointer;
 }
 
 .submit-btn {
@@ -63,11 +65,12 @@ p {
   padding: 12px 10px;
   border-radius: 20px;
   color: hsl(0, 0%, 100%);
-  margin-top: 30px;
+  margin-top: 40px;
   font-family: inherit;
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  cursor: pointer;
 }
 
 .thank-you-container {
@@ -93,7 +96,7 @@ p {
   height: 120px;
   background-image: url(/images/illustration-thank-you.svg);
   background-size: cover;
-  margin: 0 0 40px;
+  margin: 0 0 35px;
 }
 
 /** Instead I made a div that contained the image (above this line) and that made the issue of having the image fit the size much easier than what I was trying to do below this line.*/
@@ -109,7 +112,7 @@ p {
 } */
 
 .selected-rating {
-  margin: 0 0 50px;
+  margin: 0 0 40px;
   font-size: 18px;
   background-color: hsl(213, 19%, 18%);
   color: hsl(25, 97%, 53%);
@@ -117,6 +120,17 @@ p {
   border-radius: 20px;
 }
 
+.thank-you-container h1 {
+  margin-bottom: 5px;
+}
+
+.thank-you-container p {
+  font-size: 16px;
+  text-align: center;
+}
+
 .attribution {
+  display: flex;
+  align-items: center;
   color: white;
 }
