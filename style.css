@@ -93,6 +93,7 @@ p {
   height: 120px;
   background-image: url(/images/illustration-thank-you.svg);
   background-size: cover;
+  margin: 0 0 40px;
 }
 
 /** Instead I made a div that contained the image (above this line) and that made the issue of having the image fit the size much easier than what I was trying to do below this line.*/
@@ -106,6 +107,15 @@ p {
   overflow: hidden;
   object-fit: contain;
 } */
+
+.selected-rating {
+  margin: 0 0 50px;
+  font-size: 18px;
+  background-color: hsl(213, 19%, 18%);
+  color: hsl(25, 97%, 53%);
+  padding: 10px 15px;
+  border-radius: 20px;
+}
 
 .attribution {
   color: white;
