@@ -68,6 +68,11 @@ p {
   color: white;
 }
 
+.active.rating-btn {
+  background-color: hsl(25, 97%, 53%);
+  color: white;
+}
+
 .submit-btn {
   background-color: hsl(25, 97%, 53%);
   border: none;
