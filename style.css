@@ -132,5 +132,7 @@ p {
 .attribution {
   display: flex;
   align-items: center;
+  position: relative;
+  top: 24%;
   color: white;
 }
