@@ -72,6 +72,13 @@ p {
   background-color: hsl(25, 97%, 53%);
   color: white;
 }
+.rating-btn:active {
+  transform: scale(1.1);
+}
+
+.active.rating-btn:active {
+  transform: scale(1.1);
+}
 
 .submit-btn {
   background-color: hsl(25, 97%, 53%);
@@ -86,6 +93,11 @@ p {
   text-transform: uppercase;
   letter-spacing: 2px;
   cursor: pointer;
+}
+
+.submit-btn:active {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(25, 97%, 53%);
 }
 
 .thank-you-container {

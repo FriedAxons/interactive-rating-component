@@ -2,7 +2,7 @@ const containerEl = document.querySelector('.container');
 const btnRatingContainer = document.querySelector('.btn-rating-container');
 const ratingBtns = document.querySelectorAll('.rating-btn');
 const thankYouContainerEl = document.querySelector('.thank-you-container');
-const submitBtnEl = document.querySelector('.submit-btn');
+const submitBtn = document.querySelector('.submit-btn');
 const selectedRatingEl = document.querySelector('.selected-rating');
 
 btnRatingContainer.addEventListener('click', (event) => {
