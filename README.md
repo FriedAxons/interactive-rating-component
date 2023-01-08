@@ -69,7 +69,7 @@ The more specific you are with your questions the more likely it is that another
 
 ## Author
 
-- Github - [@FriedAxons](https://www.github.com/FriedAxons)
+- Github - [FriedAxons](https://www.github.com/FriedAxons)
 - Frontend Mentor - [@FriedAxons](https://www.frontendmentor.io/profile/FriedAxons)
 
 ## Acknowledgments
