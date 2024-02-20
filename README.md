@@ -4,15 +4,17 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
-- [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Submitting your solution](#submitting-your-solution)
-- [Sharing your solution](#sharing-your-solution)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
+  - [Submitting your solution](#submitting-your-solution)
+  - [Sharing your solution](#sharing-your-solution)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -31,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Completed container element](images/html-and-container.jpg)
+![Completed container element](images/main-component.jpg)
 ![Completed active state 1](images/active-state-1.jpg)
 ![Completed active state 2](images/active-state-2.jpg)
 ![Completed active state 2](images/active-submit.jpg)
