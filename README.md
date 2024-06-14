@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-7xCZZsuoDH)
-- Live Site URL: [Add live site URL here](https://friedaxons.github.io/interactive-rating-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-7xCZZsuoDH)
+- Live Site URL: [GitHub](https://friedaxons.github.io/interactive-rating-component/)
 
 ### Built with
 
