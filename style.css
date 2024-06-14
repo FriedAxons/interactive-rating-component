@@ -117,16 +117,14 @@ p {
 .active.thank-you-container {
   visibility: hidden;
   opacity: 0;
-  z-index: 2;
 }
 
 .thank-you-image {
   width: 180px;
   height: 120px;
-  background-image: url(/images/illustration-thank-you.svg);
+  background-image: url("/images/illustration-thank-you.svg");
   background-size: cover;
   margin: 0 0 35px;
-  z-index: 1;
 }
 
 .selected-rating {
